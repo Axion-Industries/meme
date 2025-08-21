@@ -1,0 +1,7 @@
+    img {
+        max-width: 100%; /* Makes images responsive */
+        height: auto;    /* Maintains aspect ratio */
+        border: 1px solid #ccc;
+        border-radius: 5px;
+        margin: 10px;
+    }
